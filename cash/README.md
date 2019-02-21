@@ -1,6 +1,6 @@
-# cash
+# Cash
 
-The algorithm calculates the conversion between an amount of dollars in an amount of yen/euros/livre sterling.
+The algorithm calculates the conversion between an amount in an amount of yen/euros/livre sterling/dollar.
 
 ## Getting Started
 
@@ -8,18 +8,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-<ol> To run this app you need:
+1. To run this app you need:
 
 	node.js
 
-To install node it's simple :
+2. To install node it's simple :
 
 	https://nodejs.org/en/
 
-Then you need to fork the project via ``github``
+3. Then you need to fork the project via ``github``
 
-To launch it on your computer you need to clone it :
+4. To launch it on your computer you need to clone your forked directory: ``https://github.com/YOUR_USERNAME/3-musketeers
+``
 
-	https://github.com/YOUR_USERNAME/3-musketeers
 
-</ol>
+	
+#### Launch the code
+
