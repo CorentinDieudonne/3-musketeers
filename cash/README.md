@@ -18,8 +18,8 @@ To install node it's simple :
 
 Then you need to fork the project via ``github``
 
-To launch it on your computer you need to clone it
+To launch it on your computer you need to clone it :
 
-(https://github.com/YOUR_USERNAME/3-musketeers)
+	https://github.com/YOUR_USERNAME/3-musketeers
 
 </ol>
