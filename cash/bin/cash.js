@@ -25,7 +25,7 @@ const cash = async command => {
 
 	loading.start();
 	/** 
-	*Use an await to have it before showing the answer and linked with the waiting timer written before*/
+	*Use an await to have it before showing the answer and linked with the waiting timer written before
 	* Verify the value in the API
 	* Get the value with the rates of the new currencies when the json match with value typed.
 	* If the program works well, show a little green check, else we got a yellow and show that the currency don't match with the json 
