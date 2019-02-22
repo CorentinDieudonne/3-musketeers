@@ -18,7 +18,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 3. Then you need to fork the project via ``github``
 
-4. To launch it on your computer you need to clone your forked directory: https://github.com/YOUR_USERNAME/3-musketeers
+4. To launch it on your computer you need to clone your forked directory: 
+	
+	https://github.com/YOUR_USERNAME/3-musketeers
 
 
 
@@ -39,7 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ##### How to use this code :
 
-	You need to write ``node bin/index.js 3 EUR
+	You need to write ``node bin/index.js 3 EUR``
 
 The list of available currency is on the folder ``cash/bin/lib/currencies``
 
