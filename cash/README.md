@@ -41,7 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ##### How to use this code :
 
-	You need to write ``node bin/index.js 3 EUR``
+You need to write ``node bin/index.js 3 EUR``
 
 The list of available currency is on the folder ``cash/bin/lib/currencies``
 
